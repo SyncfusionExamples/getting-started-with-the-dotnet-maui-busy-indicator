@@ -1,5 +1,5 @@
 # Getting Started with the .NET MAUI Busy Indicator
-This section explains the steps to configure the [.NET MAUI Busy Indicator](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Core.SfBusyIndicator.html?tabs=tabid-1) control in a real-time scenario and provides a walk-through on some of the customization features available in the control. A quick-start project that helps you integrate a Busy Indicator control in a .NET MAUI application by adding the Syncfusion MAUI Sliders package from NuGet. This project contains simple code customizations like how to add animation, set the animation duration, adjust the header title, and change the overlay indicator background. 
+This [.NET MAUI Busy Indicator](https://help.syncfusion.com/maui/busy-indicator/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples) Control is A quick-start project that helps you integrate a Busy Indicator control in a .NET MAUI application by adding the Syncfusion MAUI Sliders package from NuGet. This project contains simple code customizations like how to add animation, set the animation duration, adjust the header title, and change the overlay indicator background.
 
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) with the Dot NET MAUI workload and [.NET Core SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
@@ -7,23 +7,16 @@ Make sure that you have the compatible versions of [Visual Studio 2022](https://
 ## How to run this application
 To run this application, you need to first clone the `getting-started-with-the-dotnet-maui-busy-indicator` repository and then open it in Visual Studio 2022. Now, simply build and run your project to view the output.
 
-## <a name="troubleshooting"></a>Troubleshooting ##
-### Path too long exception
-If you are facing a path too long exception when building this example project, close Visual Studio rename the repository to short, and build the project.
-
 ## Features and Benefits
 
 ### Animation types
-The [.NET MAUI Busy Indicator](https://www.syncfusion.com/maui-controls/maui-busy-indicator?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples) includes 3 pre-built animations that can be shown within the application.
+The [.NET MAUI Busy Indicator](https://help.syncfusion.com/maui/busy-indicator/getting-started?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples) includes 3 pre-built animations that can be shown within the application.
 
 ### Circular material
-The [.NET MAUI Busy Indicator](https://www.syncfusion.com/maui-controls/maui-busy-indicator?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples) renders an Android-style material animation in a circular path.
+The .NET MAUI Busy Indicator renders an Android-style material animation in a circular path.
 
 ### Linear material 
 The .NET MAUI Busy Indicator renders an Android-style material animation in a fixed horizontal line.
-
-### Cupertino
-The .NET MAUI Busy Indicator renders an iOS-style animation.
 
 ### Position
 The title can be placed either at the top or bottom of the indicator animation of the .NET MAUI Busy Indicator.
@@ -43,7 +36,7 @@ The title can be placed either at the top or bottom of the indicator animation o
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples)
 
-[Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/BusyIndicator/SampleBrowser.Maui.BusyIndicator/Samples/BusyIndicator?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples)
+[Online example](https://github.com/syncfusion/maui-demos/tree/master/MAUI/BusyIndicator?utm_source=github&utm_medium=listing&utm_campaign=maui-busy-indicator-github-samples)
 
 ## About Syncfusion .NET MAUI Controls
 
